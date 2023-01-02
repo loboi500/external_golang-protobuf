@@ -1,0 +1,16 @@
+descriptor filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+ptypes filter=lfs diff=lfs merge=lfs -text
+protoc-gen-go filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+go.mod filter=lfs diff=lfs merge=lfs -text
+go.sum filter=lfs diff=lfs merge=lfs -text
+proto filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTORS filter=lfs diff=lfs merge=lfs -text
+Makefile filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+AUTHORS filter=lfs diff=lfs merge=lfs -text
+jsonpb filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+regenerate.sh filter=lfs diff=lfs merge=lfs -text
